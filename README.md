@@ -1,4 +1,4 @@
-# Voting Application
+# Task Manager API
 
 A simple RESTful Task Manager API built with Node.js, Express, MongoDB (Mongoose), bcryptjs for password hashing, and express-session for session management using session IDs.
 
